@@ -1,4 +1,4 @@
-# **My Third Git Project 🚀**  
+# **My Third Data Analysis Project 🚀**  
 
 ## **Project Overview**  
 This repository contains my third project, where I applied advanced Excel functions to manipulate and analyze data while reinforcing my version control workflow using Git and GitHub. The goal was to enhance my proficiency in data retrieval, logical functions, and date-based operations while efficiently managing project versions.  
