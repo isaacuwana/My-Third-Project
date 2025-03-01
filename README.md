@@ -1,7 +1,3 @@
-Here’s a structured write-up for your third project, keeping it engaging and informative like your second project documentation:  
-
----
-
 # **My Third Git Project 🚀**  
 
 ## **Project Overview**  
